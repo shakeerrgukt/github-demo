@@ -1,2 +1,4 @@
-for i in range(1, 11):
-    print(2 * i)
+def hello_world():
+    print("Hello World")
+
+hello_world()
